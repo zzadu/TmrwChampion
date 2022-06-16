@@ -1,0 +1,4 @@
+repository "TmrwChampion@SSWU_2022_SoEasy@cloud"
+  path "/"
+    br "/main"
+    co "/main"

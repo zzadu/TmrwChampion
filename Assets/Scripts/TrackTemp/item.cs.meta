@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9e6ca3b4693f8b4283e77c0e00a5ab3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transparent: {instanceID: 0}
+  - hamburgerItemSprite: {instanceID: 0}
+  - se_item: {fileID: 8300000, guid: 4d088866a3bf922429930349b6b44d9e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - FinishLine
+  - Water
+  - SwimHelper
+  - CycleFinish
+  - RamdomBox
+  - Hamburger
+  - HPSlider
+  - currentItem
+  - Coin
+  - Bike
+  - PoolOutTrigger
+  - AniPoolOut
+  - convexOut
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerPoint
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
